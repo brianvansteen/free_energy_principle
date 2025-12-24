@@ -2,7 +2,7 @@
 
 ## Karl Friston
 
-####Acknowledgements
+#### Acknowledgements
 
 This notebook’s code was inspired and partially adapted from:
 
